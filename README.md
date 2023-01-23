@@ -13,5 +13,5 @@ and academic success?
 # Approach of the Project: 
 Some of the models we intend to use include a linear regression looking at hours of technology use and BMI as well as a one-way ANOVA looking at differences in average BMI across groups based on their hours of technology use (can make categories based on hours). We can also run a classification model (KNN) to predict grades from hours of technology use. When looking at race, we plan to conduct a one-way ANOVA between different racial groups and their average BMIs and a chi-squared test of independence for race and grades 
  
-# Our dataset contains over 200,000 responses from surveys conducted between the years 1991-2019. The source of our dataset: https://www.cdc.gov/healthyyouth/data/yrbs/data.htm
+Our dataset contains over 200,000 responses from surveys conducted between the years 1991-2019. The source of our dataset: https://www.cdc.gov/healthyyouth/data/yrbs/data.htm
 
